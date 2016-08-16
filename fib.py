@@ -1,4 +1,4 @@
-def fib(limit):
+def fib(limit): #calculate fibonacci
     results=[]
     last=1
     slast=0
